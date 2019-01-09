@@ -1,0 +1,38 @@
+/* PHASE 10: Posts */
+.posts h2 {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.posts {
+  display: flex;
+}
+
+.posts div {
+  width: 540px;
+  margin-left: 20px;
+}
+
+li:after {
+  content: 
+}
+
+.posts footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.posts footer ul {
+  display: flex;
+}
+.posts .footer-left{
+  color: gray;
+  font-size: 14px;
+
+}
+
+.footer-left li:after {
+  content: " · ";
+}
